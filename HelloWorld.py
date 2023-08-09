@@ -1,6 +1,5 @@
-# Printing "HelloWorld" in Python.
+# This is a python file for priting Hello World.
 
-ptint("Hello World. This is Python.")
-
+print("Hello World")
 
 
